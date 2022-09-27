@@ -1,8 +1,9 @@
- 👋 Shavva Nik
 
-Digital Craftsman (Develeper/Software Engineer)
+# 👋 Shavva Nik
 
-### Languages and Tools
+(Develeper/Software Engineer)
+
+## Languages and Tools
 
 <img align="Left" alt="Java" width="50px" style="padding-reght:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 <img align="Left" alt="Java" width="50px" style="padding-reght:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -13,8 +14,12 @@ Digital Craftsman (Develeper/Software Engineer)
 <img align="Left" alt="Java" width="50px" style="padding-reght:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="Left" alt="Java" width="50px" style="padding-reght:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 
-### Nik Stats
+#
 
-![Nikolos GitHub Stats](https://github-stats.vercel.app/api?shavvanik&show_icons=true&theme=gruvbox)
+![Nikolos GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShavvaNik&show_icons=true&theme=reack)
 
 #
+
+<detalis>
+ <summary><h3> Nik's Coding Journey</h3></summary>
+ 
